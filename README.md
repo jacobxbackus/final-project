@@ -4,8 +4,8 @@
 
 ## Team Members
 
-🦸
-🦹
+🦸 Joseph Wong  
+🦹 Jacob Backus
 
 ## Description
 
